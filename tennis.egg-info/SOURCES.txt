@@ -1,0 +1,7 @@
+setup.py
+tennis.egg-info/PKG-INFO
+tennis.egg-info/SOURCES.txt
+tennis.egg-info/dependency_links.txt
+tennis.egg-info/not-zip-safe
+tennis.egg-info/requires.txt
+tennis.egg-info/top_level.txt
